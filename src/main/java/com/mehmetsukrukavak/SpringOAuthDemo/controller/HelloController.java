@@ -1,4 +1,4 @@
-package com.mehmetsukrukavak.SpringOAuthDemo;
+package com.mehmetsukrukavak.SpringOAuthDemo.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
